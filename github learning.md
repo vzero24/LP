@@ -12,4 +12,9 @@
 ![[Pasted image 20250118150248.png]]
 - git commit -m "message"
 	- The `-m` flag stands for **message**
+-  git branch
+	- master is the basic
+- git remote -v
+- git push [remotename]-[branchname] 
+	- git push origin master
 -  
